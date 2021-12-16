@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 
 ### Hi there 👋, My name is Snahashis
 #### I am a Web Developer and UI/UX Designer
-![I am a Web Developer and UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+![I am a Web Developer and UI/UX Designer](https://pbs.twimg.com/profile_banners/3189753998/1625547693/1500x500)
 
 I'm a junior IT undergraduate pursuing B.Tech and a passionate web developer and eager to expand my skills and learn as more as I move forward.
 I love to write/read blogs on recent technologies which I have worked on or going to be on and contribute to open source projects. I share software discoveries and inconveniences of my life on Twitter.
@@ -32,8 +32,6 @@ Skills: EXPRESS / REACT / JS / HTML / CSS / MONGODB
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snahashisk)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snahashisk)  
-
-![GitHub metrics](https://metrics.lecoq.io/snahashisk)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snahashisk)  
 
