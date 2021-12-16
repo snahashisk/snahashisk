@@ -10,3 +10,31 @@ snahashisk/snahashisk is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 [![Snahashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=snahashisk)](https://github.com/anuraghazra/github-readme-stats)
+
+### Hi there 👋, My name is Snahashis
+#### I am a Web Developer and UI/UX Designer
+![I am a Web Developer and UI/UX Designer](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I'm a junior IT undergraduate pursuing B.Tech and a passionate web developer and eager to expand my skills and learn as more as I move forward.
+I love to write/read blogs on recent technologies which I have worked on or going to be on and contribute to open source projects. I share software discoveries and inconveniences of my life on Twitter.
+I worked on my designing skills, build my skills basically on the MERN stack, and started keeping my grip on competitive coding.
+
+Skills: EXPRESS / REACT / JS / HTML / CSS / MONGODB
+
+- 🌱 I’m currently learning Next.js 
+- 👯 I’m looking to collaborate on any Open Source Projects. 
+- 💬 Ask me about Web Development. 
+- ⚡ Fun fact: I am an Introvert. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/snahashisk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/snahashis01/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/SnahashisKanrar)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=snahashisk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=snahashisk)  
+
+![GitHub metrics](https://metrics.lecoq.io/snahashisk)  
+
+![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=snahashisk)  
+
+![Profile views](https://gpvc.arturio.dev/snahashisk)  
