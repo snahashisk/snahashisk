@@ -20,7 +20,7 @@ I worked on my designing skills, build my skills basically on the MERN stack, an
 
 [![Snahashis's GitHub stats](https://github-readme-stats.vercel.app/api?username=snahashisk)](https://github.com/anuraghazra/github-readme-stats)
 
-Skills: EXPRESS / REACT / JS / HTML / CSS / MONGODB
+Skills: EXPRESS / REACT / JS / HTML / CSS / MONGODB / NODE
 
 - 🌱 I’m currently learning Next.js 
 - 👯 I’m looking to collaborate on any Open Source Projects. 
